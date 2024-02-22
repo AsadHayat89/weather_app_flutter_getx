@@ -1,0 +1,3 @@
+enum PreferenceEnum{
+  LOACTION
+}
